@@ -1,10 +1,4 @@
 {
-  "name": "angular-8-registration-login-example",
-  "version": "1.0.0",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/cornflourblue/angular-8-registration-login-example.git"
-  },
   "scripts": {
     "build": "webpack --mode production",
     "start": "webpack-dev-server --mode development --open"
